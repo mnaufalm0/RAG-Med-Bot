@@ -1,0 +1,12 @@
+langchain==0.3.7
+langchain-core==0.3.15
+langchain-community==0.3.7
+langchain-groq==1.1.2
+langchain-classic==1.0.3
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+pandas
+python-dotenv
+colorama
+streamlit
